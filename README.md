@@ -14,5 +14,4 @@ cd - “change diretory [insert name of folder]” -
 mkdir -  “make directory” - make a folder
 rm- “remove file”- deletes a file forever (not the trash). doesn’t work on directories
 mv -  “move” - move file (will also overwrite a file if: "mv file.txt renamedFile.txt)
-      
 ```
